@@ -10,5 +10,8 @@
 node_modules/
 public/
 
+# PDF (ใหญ่และเป็นของบุคคลอื่น ไม่เผยแพร่)
+*.pdf
+
 # Quartz build output
 quartz/cache/
