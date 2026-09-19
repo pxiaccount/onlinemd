@@ -1,3 +1,89 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ─────────────────────────────────────────────────────────────
+// ปรับแต่ง UI เฉพาะของเว็บนี้
+// ไฟล์นี้ถูก emit นอก @layer จึงชนะสไตล์ของ component เสมอ
+// ─────────────────────────────────────────────────────────────
+
+// ── Explorer "รายการหน้า" ── ทำให้เบา เล็ก และคมขึ้น
+
+// ป้ายชื่อ "รายการหน้า" — เป็นป้ายเงียบ ๆ ไม่ใช่หัวข้อใหญ่
+button.explorer-toggle {
+  gap: 0.3rem;
+
+  h2 {
+    font-size: 0.82rem;
+    font-weight: $semiBoldWeight;
+    color: var(--gray);
+    margin: 0;
+  }
+
+  .fold {
+    margin-left: 0.2rem;
+    opacity: 0.6;
+  }
+
+  &:hover h2 {
+    color: var(--darkgray);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 2px;
+    border-radius: 3px;
+  }
+}
+
+.explorer-content {
+  margin-top: 0.35rem;
+
+  // แถวไฟล์ — เล็กลง เลิกใช้ opacity แล้วใช้สีจริงแทน (contrast ดีขึ้น)
+  ul li > a {
+    font-size: 0.82rem;
+    line-height: 1.35rem;
+    font-weight: $normalWeight;
+    opacity: 1;
+    color: var(--darkgray);
+
+    &:hover {
+      color: var(--dark);
+    }
+
+    &.active {
+      color: var(--tertiary);
+      font-weight: $semiBoldWeight;
+    }
+  }
+
+  // ชื่อโฟลเดอร์ — ใหญ่กว่าไฟล์เล็กน้อย แต่ไม่หนวดชันแบบเดิม
+  .folder-container div > a,
+  .folder-container div > button span {
+    font-size: 0.85rem;
+    line-height: 1.4rem;
+  }
+
+  // เส้นนำสายตาของต้นไม้ — หดเยื้องให้กระชับ
+  .folder-outer > ul {
+    margin-left: 4px;
+    padding-left: 0.55rem;
+  }
+}
+
+// ไอคอน chevron ของโฟลเดอร์ — เล็กลงให้จมเป็นฉากหลัง
+.folder-icon {
+  width: 10px;
+  height: 10px;
+  margin-right: 4px;
+}
+
+// ปุ่มสลับรายการหน้า — เพิ่มพื้นที่สัมผัสเล็กน้อย
+button.explorer-toggle {
+  padding: 0.35rem 0;
+}
+
+// มือถือ: drawer เต็มจอ — ดันรายการขึ้น ลดพื้นที่ว่างด้านบน
+@media all and ($mobile) {
+  .explorer .explorer-content {
+    padding: 3.25rem 1.25rem 2rem;
+  }
+}
