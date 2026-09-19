@@ -23,8 +23,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Google Sans Code
-      body: Google Sans Code
+      header: Google Sans
+      body: Google Sans
       code: IBM Plex Mono
     colors:
       lightMode:
