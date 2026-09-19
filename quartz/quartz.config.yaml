@@ -18,7 +18,6 @@ configuration:
     - public
     - "**/AGENTS.md"
     - "**/คู่มือ-GitHub.md"
-    - "**/*.pdf"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
