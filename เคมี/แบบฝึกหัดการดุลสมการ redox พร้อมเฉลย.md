@@ -51,6 +51,7 @@ created: 2026-09-19
 > [!question]- ข้อ 1.2 (กรด): $\mathrm{Cu + NO_3^- \rightarrow Cu^{2+} + NO}$
 > > [!success]- เฉลย
 > > Cu: 0→+2 เสีย 2e⁻ ×3 | N: +5→+2 รับ 3e⁻ ×2 → LCM = 6
+> >
 > > สภาพกรด: ขาด O ฝั่งขวา 2×2=4 → เติม 4H₂O; ขาด H 8 → เติม 8H⁺
 > > $$
 > > \mathrm{3Cu(s) + 2NO_3^-(aq) + 8H^+(aq) \rightarrow 3Cu^{2+}(aq) + 2NO(g) + 4H_2O(l)}
@@ -68,6 +69,7 @@ created: 2026-09-19
 > [!question]- ข้อ 1.4 (เบส): $\mathrm{Zn + MnO_4^- \rightarrow Zn^{2+} + MnO_2}$
 > > [!success]- เฉลย
 > > Zn: 0→+2 เสีย 2e⁻ ×3 | Mn: +7→+4 รับ 3e⁻ ×2 → LCM = 6
+> >
 > > แบบกรดก่อน: $\mathrm{3Zn + 2MnO_4^- + 8H^+ \rightarrow 3Zn^{2+} + 2MnO_2 + 4H_2O}$
 > > แปลงเบส: เติม 8OH⁻ ทั้งสองข้าง → ขวาเกิด 8H₂O, ตัดกับ 4H₂O ซ้ายเหลือขวา 4H₂O... สุทธิ:
 > > $$
@@ -80,6 +82,7 @@ created: 2026-09-19
 > [!question]- ข้อ 2.1 (กรด): $\mathrm{MnO_2 + Fe^{2+} + H^+ \rightarrow Mn^{2+} + Fe^{3+} + H_2O}$
 > > [!success]- เฉลย
 > > - รีดักชัน: $\mathrm{MnO_2 + 4H^+ + 2e^- \rightarrow Mn^{2+} + 2H_2O}$ (ขาด O 2→H₂O×2, ขาด H 4→H⁺×4)
+> >
 > > - ออกซิเดชัน: $\mathrm{Fe^{2+} \rightarrow Fe^{3+} + e^-}$ ×2
 > > $$
 > > \mathrm{MnO_2(s) + 2Fe^{2+}(aq) + 4H^+(aq) \rightarrow Mn^{2+}(aq) + 2Fe^{3+}(aq) + 2H_2O(l)}
@@ -89,6 +92,7 @@ created: 2026-09-19
 > [!question]- ข้อ 2.2: $\mathrm{Cl_2 + SO_2 + H_2O \rightarrow SO_4^{2-} + Cl^- + H^+}$
 > > [!success]- เฉลย
 > > - ออกซิเดชัน (S: +4→+6): $\mathrm{SO_2 + 2H_2O \rightarrow SO_4^{2-} + 4H^+ + 2e^-}$
+> >
 > > - รีดักชัน (Cl: 0→−1): $\mathrm{Cl_2 + 2e^- \rightarrow 2Cl^-}$
 > > e⁻ = 2 เท่ากันพอดี → รวมตัดทันที:
 > > $$
@@ -99,6 +103,7 @@ created: 2026-09-19
 > [!question]- ข้อ 2.3 (เบส): $\mathrm{MnO_4^- + S^{2-} \rightarrow MnO_2 + S}$
 > > [!success]- เฉลย
 > > - รีดักชัน (Mn: +7→+4, เบส): $\mathrm{MnO_4^- + 2H_2O + 3e^- \rightarrow MnO_2 + 4OH^-}$ ×2
+> >
 > > - ออกซิเดชัน (S: −2→0): $\mathrm{S^{2-} \rightarrow S + 2e^-}$ ×3
 > > รวม ตัด 6e⁻:
 > > $$
@@ -109,6 +114,7 @@ created: 2026-09-19
 > [!question]- ข้อ 2.4 (เบส): $\mathrm{Cr(OH)_3 + ClO^- \rightarrow CrO_4^{2-} + Cl^-}$
 > > [!success]- เฉลย
 > > - ออกซิเดชัน (Cr: +3→+6): $\mathrm{Cr(OH)_3 + 5OH^- \rightarrow CrO_4^{2-} + 4H_2O + 3e^-}$ ×2
+> >
 > > - รีดักชัน (Cl: +1→−1): $\mathrm{ClO^- + H_2O + 2e^- \rightarrow Cl^- + 2OH^-}$ ×3
 > > รวม ตัด 6e⁻ แล้วตัด OH⁻ (ซ้าย 10−6 = เหลือ 4) และ H₂O (ขวา 8−3 = เหลือ 5):
 > > $$
