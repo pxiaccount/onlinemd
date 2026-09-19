@@ -1,0 +1,14 @@
+# ระบบ / แอปที่ไม่ควรขึ้นเว็บ
+.obsidian/
+.freebuff/
+.firecrawl/
+.trash/
+
+# ไฟล์ชั่วคราว
+*.tmp
+~$*
+node_modules/
+public/
+
+# Quartz build output
+quartz/cache/
