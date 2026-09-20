@@ -1,8 +1,8 @@
 ---
-title: การเติม H2O H+ OH- ในการสมดุลปฏิกิริยา redox
+title: การเติมน้ำและไอออนในการดุล redox
 aliases:
   - Balancing Redox with H2O, H+, OH-
-  - วิธีเติม H2O H+ OH-
+  - วิธีเติมน้ำและไอออน
 tags:
   - chemistry/redox
 created: 2026-09-19
