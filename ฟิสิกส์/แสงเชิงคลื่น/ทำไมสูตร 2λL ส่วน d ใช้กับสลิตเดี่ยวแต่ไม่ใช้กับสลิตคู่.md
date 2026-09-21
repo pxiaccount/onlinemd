@@ -14,7 +14,7 @@ created: 2026-09-21
 > เพราะสลิตเดี่ยวเป็น**แหล่งกำเนิดต่อเนื่อง**ทั้งความกว้าง ริ้วสว่างกลางจึงถูกขนาบด้วยริ้วมืดแรกที่ $x = \pm\dfrac{\lambda L}{a}$ สองข้างรวมกันเลยได้ $W = \dfrac{2\lambda L}{a}$ — แต่สลิตคู่มีแค่**สองแหล่ง** ริ้วสว่างทุกริ้วกว้างเท่ากันและห่างกันแค่ $\dfrac{\lambda L}{d}$ จึงไม่มีตัวคูณ 2
 
 $
-W_{\text{กลาง}} = \frac{2\lambda L}{a} \quad\text{(สลิตเดี่ยว)} \qquad \Delta x = \frac{\lambda L}{d} \quad\text{(สลิตคู่)}
+W_{\text{single}} = \frac{2\lambda L}{a} \qquad \Delta x_{\text{double}} = \frac{\lambda L}{d}
 $
 
 ## 🖼 ภาพประกอบ
@@ -24,26 +24,18 @@ $
     <marker id="arw1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#e03131"/></marker>
     <marker id="arw2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1971c2"/></marker>
   </defs>
-
   <!-- ===== สลิตเดี่ยว ===== -->
   <text x="210" y="20" font-size="14" font-weight="bold" fill="#333" text-anchor="middle">สลิตเดี่ยว (ช่องเดียว ความกว้าง a)</text>
   <line x1="30" y1="145" x2="390" y2="145" stroke="#868e96" stroke-width="1.5"/>
-  <!-- ริ้วกลาง -->
   <path d="M 150 145 Q 175 45 210 45 Q 245 45 270 145" fill="#ffd43b" fill-opacity="0.4" stroke="#f59f00" stroke-width="2"/>
-  <!-- ริ้วข้างซ้าย -->
   <path d="M 110 145 Q 120 118 130 118 Q 140 118 150 145" fill="#ffd43b" fill-opacity="0.35" stroke="#f59f00" stroke-width="1.5"/>
-  <path d="M 83 145 Q 89 132 96 132 Q 103 132 110 145 " fill="#ffd43b" fill-opacity="0.3" stroke="#f59f00" stroke-width="1.5"/>
-  <!-- ริ้วข้างขวา -->
+  <path d="M 83 145 Q 89 132 96 132 Q 103 132 110 145" fill="#ffd43b" fill-opacity="0.3" stroke="#f59f00" stroke-width="1.5"/>
   <path d="M 270 145 Q 280 118 290 118 Q 300 118 310 145" fill="#ffd43b" fill-opacity="0.35" stroke="#f59f00" stroke-width="1.5"/>
   <path d="M 310 145 Q 316 132 323 132 Q 330 132 337 145" fill="#ffd43b" fill-opacity="0.3" stroke="#f59f00" stroke-width="1.5"/>
-  <!-- ความกว้างริ้วกลาง -->
   <line x1="150" y1="168" x2="270" y2="168" stroke="#e03131" stroke-width="1.5" marker-start="url(#arw1)" marker-end="url(#arw1)"/>
   <text x="210" y="186" font-size="12" fill="#e03131" text-anchor="middle" font-weight="bold">ริ้วกลางกว้าง W = 2λL/a</text>
-  <text x="210" y="203" font-size="11" fill="#868e96" text-anchor="middle">สองข้างของเส้นกลาง รวมกันเป็นเท่าตัวของ λL/a</text>
-
-  <!-- เส้นแบ่ง -->
+  <text x="210" y="203" font-size="11" fill="#868e96" text-anchor="middle">สองข้างของเส้นกลาง รวมกันเป็น 2 เท่าของ λL/a</text>
   <line x1="20" y1="220" x2="400" y2="220" stroke="#868e96" stroke-width="1" stroke-dasharray="4 4"/>
-
   <!-- ===== สลิตคู่ ===== -->
   <text x="210" y="243" font-size="14" font-weight="bold" fill="#333" text-anchor="middle">สลิตคู่ (สองช่องห่างกัน d)</text>
   <line x1="20" y1="312" x2="400" y2="312" stroke="#868e96" stroke-width="1.5"/>
@@ -54,7 +46,6 @@ $
   <rect x="273" y="267" width="24" height="45" fill="#ffd43b" fill-opacity="0.5" stroke="#f59f00"/>
   <rect x="333" y="267" width="24" height="45" fill="#ffd43b" fill-opacity="0.5" stroke="#f59f00"/>
   <text x="225" y="260" font-size="11" fill="#f59f00" text-anchor="middle">ริ้วกลาง</text>
-  <!-- ระยะห่างริ้ว -->
   <line x1="165" y1="325" x2="225" y2="325" stroke="#1971c2" stroke-width="1.5" marker-start="url(#arw2)" marker-end="url(#arw2)"/>
   <text x="195" y="339" font-size="11" fill="#1971c2" text-anchor="middle" font-weight="bold">Δx = λL/d</text>
   <text x="330" y="288" font-size="11" fill="#333" text-anchor="middle">สูงเท่ากันทุกริ้ว</text>
@@ -150,8 +141,8 @@ $
 ## ⚠️ ข้อควรระวัง
 
 > [!warning] ข้อผิดพลาดที่พบบ่อย
-> 1. เผลอใส่ตัวคูณ 2 กับสลิตคู่ — $\Delta x_{คู่} = \dfrac{\lambda L}{d}$ ไม่ใช่ $\dfrac{2\lambda L}{d}$
-> 2. สับสนว่า $d$ ในสูตรหมายถึงอะไร (ความกว้างสลิตเดี่ยว vs ระยะห่างช่องของสลิตคู่)
+> 1. เผลอใส่ตัวคูณ 2 กับสลิตคู่ — ระยะห่างริ้วของสลิตคู่คือ $\dfrac{\lambda L}{d}$ ไม่ใช่ $\dfrac{2\lambda L}{d}$
+> 2. สับสนว่า $d$ ในสูตรหมายถึงอะไร (ความกว้างสลิตเดี่ยว หรือระยะห่างช่องของสลิตคู่)
 > 3. ลืมว่าสูตร $W = \dfrac{2\lambda L}{a}$ ใช้เมื่อ**มุมเล็ก** ($\sin\theta \approx \tan\theta$) เท่านั้น ถ้ามุมใหญ่ต้องใช้ $x = L\tan\theta$
 > 4. จำว่า $a\sin\theta = n\lambda$ ของสลิตเดี่ยวให้**ริ้วมืด** แต่ $d\sin\theta = n\lambda$ ของสลิตคู่ให้**ริ้วสว่าง** — สลับง่ายมาก
 
