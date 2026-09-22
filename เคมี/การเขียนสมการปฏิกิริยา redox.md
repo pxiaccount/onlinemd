@@ -124,7 +124,7 @@ $
 
 ## 🏋️ แบบฝึกหัด
 
-> [!question]- ข้อ 1: สมดุล $\mathrm{Cr_2O_7^{2-} + Fe^{2+} \rightarrow Cr^{3+} + Fe^{3+}}$ ในสารละลายกรด
+> [!question]- 1 สมดุล $\mathrm{Cr_2O_7^{2-} + Fe^{2+} \rightarrow Cr^{3+} + Fe^{3+}}$ ในสารละลายกรด
 > > [!success]- เฉลย
 > > - ครึ่ง Fe (คูณ 1): $\mathrm{Fe^{2+} \rightarrow Fe^{3+} + e^-}$
 > > - ครึ่ง Cr: $\mathrm{Cr_2O_7^{2-} + 14H^+ + 6e^- \rightarrow 2Cr^{3+} + 7H_2O}$ (ดูรายละเอียดในโน้ตการเติม H₂O)
@@ -132,7 +132,7 @@ $
 > > $\mathrm{Cr_2O_7^{2-} + 14H^+ + 6Fe^{2+} \rightarrow 2Cr^{3+} + 7H_2O + 6Fe^{3+}}$
 > > - ตรวจประจุ: ซ้าย (−2+14+12)=+24, ขวา (+6+18)=+24 ✅
 
-> [!question]- ข้อ 2: สมดุล $\mathrm{ClO^- + I_2 \rightarrow IO_3^- + Cl^-}$ ในสารละลายเบส
+> [!question]- 2 สมดุล $\mathrm{ClO^- + I_2 \rightarrow IO_3^- + Cl^-}$ ในสารละลายเบส
 > > [!success]- เฉลย
 > > - ครึ่งออกซิเดชัน (I: 0→+5): $\mathrm{I_2 + 12OH^- \rightarrow 2IO_3^- + 6H_2O + 10e^-}$
 > >   (เติม 6H₂O ขวาเพื่อ H, จึงเติม 12OH⁻ ซ้ายเพื่อ O+H — สภาพเบส)

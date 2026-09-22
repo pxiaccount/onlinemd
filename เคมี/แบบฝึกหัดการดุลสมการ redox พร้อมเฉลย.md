@@ -40,7 +40,7 @@ created: 2026-09-19
 
 ## ✏️ ชุดที่ 1: วิธีเลขออกซิเดชัน
 
-> [!question]- ข้อ 1.1: $\mathrm{Al + H^+ \rightarrow Al^{3+} + H_2}$
+> [!question]- 1.1 $\mathrm{Al + H^+ \rightarrow Al^{3+} + H_2}$
 > > [!success]- เฉลย
 > > Al: 0→+3 เสีย 3e⁻ | H⁺: +1→0 รับ 1e⁻ → LCM = 6 (Al ×2, H⁺ ×6)
 > > $$
@@ -48,7 +48,7 @@ created: 2026-09-19
 > > $$
 > > ตรวจ: Al 2=2, H 6=6, ประจุซ้าย +6 = ขวา +6 ✅
 
-> [!question]- ข้อ 1.2 (กรด): $\mathrm{Cu + NO_3^- \rightarrow Cu^{2+} + NO}$
+> [!question]- 1.2 (กรด) $\mathrm{Cu + NO_3^- \rightarrow Cu^{2+} + NO}$
 > > [!success]- เฉลย
 > > Cu: 0→+2 เสีย 2e⁻ ×3 | N: +5→+2 รับ 3e⁻ ×2 → LCM = 6
 > >
@@ -58,7 +58,7 @@ created: 2026-09-19
 > > $$
 > > ตรวจ: ประจุซ้าย −2+8=+6 = ขวา +6 ✅
 
-> [!question]- ข้อ 1.3 (กรด): $\mathrm{Cr_2O_7^{2-} + H^+ + Cl^- \rightarrow Cr^{3+} + Cl_2 + H_2O}$
+> [!question]- 1.3 (กรด) $\mathrm{Cr_2O_7^{2-} + H^+ + Cl^- \rightarrow Cr^{3+} + Cl_2 + H_2O}$
 > > [!success]- เฉลย
 > > Cr: +6→+3 รับ 6e⁻ ต่อ 1 Cr₂O₇²⁻ (2 อะตอม) | Cl: −1→0 เสีย 1e⁻ → Cl ×6
 > > $$
@@ -66,7 +66,7 @@ created: 2026-09-19
 > > $$
 > > ตรวจ: O 7=7, H 14=14, ประจุซ้าย −2+14−6=+6 = ขวา +6 ✅
 
-> [!question]- ข้อ 1.4 (เบส): $\mathrm{Zn + MnO_4^- \rightarrow Zn^{2+} + MnO_2}$
+> [!question]- 1.4 (เบส) $\mathrm{Zn + MnO_4^- \rightarrow Zn^{2+} + MnO_2}$
 > > [!success]- เฉลย
 > > Zn: 0→+2 เสีย 2e⁻ ×3 | Mn: +7→+4 รับ 3e⁻ ×2 → LCM = 6
 > >
@@ -79,7 +79,7 @@ created: 2026-09-19
 
 ## ✏️ ชุดที่ 2: วิธีครึ่งปฏิกิริยา
 
-> [!question]- ข้อ 2.1 (กรด): $\mathrm{MnO_2 + Fe^{2+} + H^+ \rightarrow Mn^{2+} + Fe^{3+} + H_2O}$
+> [!question]- 2.1 (กรด) $\mathrm{MnO_2 + Fe^{2+} + H^+ \rightarrow Mn^{2+} + Fe^{3+} + H_2O}$
 > > [!success]- เฉลย
 > > - รีดักชัน: $\mathrm{MnO_2 + 4H^+ + 2e^- \rightarrow Mn^{2+} + 2H_2O}$ (ขาด O 2→H₂O×2, ขาด H 4→H⁺×4)
 > >
@@ -89,7 +89,7 @@ created: 2026-09-19
 > > $$
 > > ตรวจ: ประจุซ้าย +4+4=+8? แก้: −? ซ้าย = 0+(+4)+(+4)=+8, ขวา = +2+(+6)=+8 ✅
 
-> [!question]- ข้อ 2.2: $\mathrm{Cl_2 + SO_2 + H_2O \rightarrow SO_4^{2-} + Cl^- + H^+}$
+> [!question]- 2.2 $\mathrm{Cl_2 + SO_2 + H_2O \rightarrow SO_4^{2-} + Cl^- + H^+}$
 > > [!success]- เฉลย
 > > - ออกซิเดชัน (S: +4→+6): $\mathrm{SO_2 + 2H_2O \rightarrow SO_4^{2-} + 4H^+ + 2e^-}$
 > >
@@ -100,7 +100,7 @@ created: 2026-09-19
 > > $$
 > > ตรวจ: ประจุขวา −2−2+4=0 = ซ้าย 0 ✅
 
-> [!question]- ข้อ 2.3 (เบส): $\mathrm{MnO_4^- + S^{2-} \rightarrow MnO_2 + S}$
+> [!question]- 2.3 (เบส) $\mathrm{MnO_4^- + S^{2-} \rightarrow MnO_2 + S}$
 > > [!success]- เฉลย
 > > - รีดักชัน (Mn: +7→+4, เบส): $\mathrm{MnO_4^- + 2H_2O + 3e^- \rightarrow MnO_2 + 4OH^-}$ ×2
 > >
@@ -111,7 +111,7 @@ created: 2026-09-19
 > > $$
 > > ตรวจ: O ซ้าย 8+4=12, ขวา 4+8=12 ✅ ประจุซ้าย −2−6=−8 = ขวา −8 ✅
 
-> [!question]- ข้อ 2.4 (เบส): $\mathrm{Cr(OH)_3 + ClO^- \rightarrow CrO_4^{2-} + Cl^-}$
+> [!question]- 2.4 (เบส) $\mathrm{Cr(OH)_3 + ClO^- \rightarrow CrO_4^{2-} + Cl^-}$
 > > [!success]- เฉลย
 > > - ออกซิเดชัน (Cr: +3→+6): $\mathrm{Cr(OH)_3 + 5OH^- \rightarrow CrO_4^{2-} + 4H_2O + 3e^-}$ ×2
 > >

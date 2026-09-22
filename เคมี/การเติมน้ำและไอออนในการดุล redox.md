@@ -102,7 +102,7 @@ created: 2026-09-19
 
 ## 🏋️ แบบฝึกหัด
 
-> [!question]- ข้อ 1 (สภาพกรด): สมดุลครึ่งปฏิกิริยา $\mathrm{Cr_2O_7^{2-} \rightarrow Cr^{3+}}$
+> [!question]- 1 (สภาพกรด) สมดุลครึ่งปฏิกิริยา $\mathrm{Cr_2O_7^{2-} \rightarrow Cr^{3+}}$
 > > [!success]- เฉลย
 > > 1. สมดุล Cr: $\mathrm{Cr_2O_7^{2-} \rightarrow 2Cr^{3+}}$
 > > 2. ขาด O 7 → เติม 7H₂O ขวา: $\mathrm{Cr_2O_7^{2-} \rightarrow 2Cr^{3+} + 7H_2O}$
@@ -110,7 +110,7 @@ created: 2026-09-19
 > > 4. ประจุ: ซ้าย +12, ขวา +6 → เติม 6e⁻ ซ้าย:
 > > $\mathrm{Cr_2O_7^{2-} + 14H^+ + 6e^- \rightarrow 2Cr^{3+} + 7H_2O}$
 
-> [!question]- ข้อ 2 (สภาพเบส): สมดุลครึ่งปฏิกิริยา $\mathrm{ClO^- \rightarrow Cl^-}$ แล้วตอบว่าเติมอะไรที่ขั้นไหน
+> [!question]- 2 (สภาพเบส) สมดุลครึ่งปฏิกิริยา $\mathrm{ClO^- \rightarrow Cl^-}$ แล้วตอบว่าเติมอะไรที่ขั้นไหน
 > > [!success]- เฉลย
 > > 1. Cl สมดุลแล้ว, ขาด O 1 → **สภาพเบส เติม 2OH⁻ ฝั่งขาด O (ขวา)**: $\mathrm{ClO^- \rightarrow Cl^- + 2OH^-}$
 > > 2. ขาด H ฝั่งซ้าย (ขวามี H 2 จาก OH⁻) → **เติม H₂O ซ้าย**: $\mathrm{ClO^- + H_2O \rightarrow Cl^- + 2OH^-}$
