@@ -26,6 +26,8 @@ created: 2026-09-24
 ## 📚 บทเรียน
 
 - [[อดีตที่เคยทำ-used-to-กับ-would]] — เล่านิสัยในอดีตที่จบไปแล้ว จุดต่างสำคัญของ used to กับ would
+- [[อดีตกาล-past-simple-กับ-past-continuous]] — เหตุการณ์ที่จบเป็นจุดกับที่กำลังเกิด พร้อมจุดชี้ขาด when กับ while
+- [[ชุดข้อสอบอดีตกาล-27-ข้อ]] — โจทย์ 27 ข้อจากสไลด์ The Past เลือก used to · would · past simple · past continuous
 - [[ปัจจุบันกาล-present-simple-กับ-present-continuous]] — กิจวัตรกับสิ่งที่กำลังเกิด ช่วงชั่วคราว และ stative verbs
 - [[อนาคตกาล-will-กับ-be-going-to]] — ตัดสินใจสด ๆ กับแผนที่วางไว้ พร้อมกฎเมื่อไหร่ห้ามใช้ will
 - [[คำเชื่อม-conjunction]] — because, so, although, despite, if, unless และกลุ่มคำเชื่อมทั้งหมดที่ออกสอบ
@@ -36,4 +38,6 @@ created: 2026-09-24
 
 ## 🎴 การ์ดทบทวน #flashcards
 
-วิชาภาษาอังกฤษใน vault นี้เริ่มด้วยหัวข้ออะไรบ้าง?::อดีตที่เคยทำ (used to กับ would), ปัจจุบันกาล (present simple กับ present continuous), อนาคตกาล (will กับ be going to) และคำเชื่อม (conjunction)
+วิชาภาษาอังกฤษใน vault นี้เริ่มด้วยหัวข้ออะไรบ้าง?::อดีตที่เคยทำ (used to กับ would), อดีตกาล (past simple กับ past continuous), ปัจจุบันกาล (present simple กับ present continuous), อนาคตกาล (will กับ be going to) และคำเชื่อม (conjunction)
+
+โน้ตอดีตกาลมีชุดข้อสอบกี่ข้อและมาจากไหน?::27 ข้อ จากสไลด์บท The Past โดยทุกข้อให้เลือก used to · would · past simple · past continuous
